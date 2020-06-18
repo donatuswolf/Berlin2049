@@ -1,0 +1,13 @@
+[{
+        "id": "tempelhof",
+        "label": "Tempelhofer Wald",
+        "googlemaps": "",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.473362,
+        "y": 13.403670,
+        "type": "location",
+        "time": "day",
+        "author": "Donatus Wolf"
+    }
+]

@@ -246,7 +246,8 @@ body {
 }
 
 .addsound:hover {
-    background-color: #ec4667;
+    background-color: white;
+    color: #ffc80c;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
 }
 

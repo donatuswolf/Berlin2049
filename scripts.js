@@ -127,11 +127,11 @@ window.onload = function () {
 
             //// doubleclick ////////
 
-            // circle.on('dblclick', function () {
-            //     if (data.googlemaps != '') {
-            //         window.open(data.googlemaps, '_blank'); // create link
-            //     }
-            // });
+            circle.on('dblclick', function () {
+                if (data.googlemaps != '') {
+                    window.open(data.googlemaps, '_blank'); // create link
+                }
+            });
 
             function playSound(name, volume) {
                 // var audio = new Audio('assets/sounds/' + name + '.mp3'); // load audio

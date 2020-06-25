@@ -134,15 +134,15 @@ window.onload = function () {
             // });
 
             function playSound(name, volume) {
-                var audio = new Audio('assets/sounds/' + name + '.mp3'); // load audio
-                audio.volume = volume; // set to custom volume from dataset
-                audio.loop = true;
-                audio.play();
+                // var audio = new Audio('assets/sounds/' + name + '.mp3'); // load audio
+                // audio.volume = volume; // set to custom volume from dataset
+                // audio.loop = true;
+                // audio.play();
 
                 //// mouseout ////////
 
                 circle.on('mouseout', function () {
-                    audio.pause();
+                    // audio.pause();
                     circle.setRadius(radiusMin)
                     $('#photo').addClass('hidden'); // hide photo
                     $('#photobg').addClass('hidden');

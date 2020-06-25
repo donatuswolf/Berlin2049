@@ -128,8 +128,8 @@ window.onload = function () {
             //// doubleclick ////////
 
             circle.on('dblclick', function () {
-                if (data.googlemaps != '') {
-                    window.open(data.googlemaps, '_blank'); // create link
+                if (data.link != '') {
+                    window.open(data.link, '_blank'); // create link
                 }
             });
 

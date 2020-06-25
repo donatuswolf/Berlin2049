@@ -3,7 +3,7 @@ body {
     width: 100%;
     height: 100%;
     margin: 0;
-    font-family: 'DM Sans', sans-serif;
+    font-family: 'Noto Sans TC', sans-serif;
     font-size: 16px;
     line-height: 22px;
     font-weight: 300;
@@ -70,8 +70,7 @@ body {
     width: 12px;
 }
 
-.more:hover,
-.add:hover {
+.more:hover, .add:hover{
     cursor: pointer;
 }
 
@@ -116,7 +115,7 @@ body {
     position: absolute;
     left: -58px;
     top: -1px;
-}
+  }
 
 .legend .item1 h3::before {
     color: #3a7bbf;
@@ -155,8 +154,7 @@ body {
     justify-content: center;
 }
 
-.creditsleft,
-.creditsleft a {
+.creditsleft, .creditsleft a {
     font-size: 14px;
     line-height: 16px;
     text-transform: none;
@@ -170,8 +168,7 @@ body {
     color: #ec4667;
 }
 
-#photo,
-#photobg {
+#photo, #photobg {
     background-color: #e5e8ef;
     position: absolute;
     z-index: 4;
@@ -192,8 +189,7 @@ body {
     z-index: 5;
 }
 
-#photo.hidden,
-#photobg.hidden {
+#photo.hidden, #photobg.hidden {
     opacity: 0;
     transition: all 0.3s;
 }
@@ -231,7 +227,7 @@ body {
     width: 64px;
     height: 64px;
     text-align: center;
-    background-color: #ffc80c;
+    background-color:#ffc80c;
     color: white;
     text-decoration: none;
     border-radius: 100%;
@@ -286,7 +282,7 @@ body {
         float: right;
     }
 
-    .howto {
+    .howto{
         margin: 24px 0;
         max-width: 430px;
     }
@@ -299,16 +295,14 @@ body {
         margin: 0;
     }
 
-    .center,
-    .bottom {
+    .center, .bottom {
         /* display: none; */
         /* visibility: hidden; */
         opacity: 1;
         transition: all 0.3s ease-in-out;
     }
 
-    #photo,
-    #photobg {
+    #photo, #photobg {
         top: auto;
         right: auto;
         bottom: 0;
@@ -317,5 +311,5 @@ body {
         width: 100%;
         border-radius: 8px 8px 0 0;
     }
-
+    
 }

@@ -8,6 +8,90 @@
         "y": 13.403670,
         "type": "someday",
         "time": "day",
-        "author": "Donatus Wolf"
+        "author": ""
+    },
+    {
+        "id": "alex",
+        "label": "Grüner Alexanderplatz",
+        "googlemaps": "",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.521694,
+        "y": 13.413917,
+        "type": "someday",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "frankfurterTor",
+        "label": "Frankfurter Tor",
+        "googlemaps": "",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.515389,
+        "y": 13.459000,
+        "type": "someday",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "moeckernbruecke",
+        "label": "Möckernbrücke",
+        "googlemaps": "https://www.bz-berlin.de/radfahren/radbahn-u1-radfahrer-studie",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.499056,
+        "y": 13.381472,
+        "type": "someday",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "oberbaumbruecke",
+        "label": "Oberbaumbrücke",
+        "googlemaps": "https://www.bz-berlin.de/radfahren/radbahn-u1-radfahrer-studie",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.500639,
+        "y": 13.438028,
+        "type": "someday",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "rooftop",
+        "label": "Rooftop",
+        "googlemaps": "https://www.tagesspiegel.de/berlin/nutzung-von-daechern-auf-dem-dach-entsteht-das-ideal-einer-neuen-stadt/12310596-4.html",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.476028,
+        "y": 13.446417,
+        "type": "tomorrow",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "bikiniBerlin",
+        "label": "Dach vom Bikini Berlin",
+        "googlemaps": "https://goo.gl/maps/FbFdm7Dkx52kWU5T8",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.505667,
+        "y": 13.334639,
+        "type": "now",
+        "time": "day",
+        "author": ""
+    },
+    {
+        "id": "klunkerkranich",
+        "label": "Dachterasse der Roof-Top-Bar „Klunkerkranich“",
+        "googlemaps": "https://goo.gl/maps/U2p1rxQEXzxPXkXx9",
+        "vol": 0.5,
+        "db": 0.7,
+        "x": 52.482250,
+        "y": 13.431528,
+        "type": "now",
+        "time": "day",
+        "author": ""
     }
 ]

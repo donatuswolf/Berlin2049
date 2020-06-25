@@ -119,15 +119,15 @@ body {
 }
 
 .legend .item1 h3::before {
-    color: #3a7bbf;
+    color: #186664;
 }
 
 .legend .item2 h3::before {
-    color: #99e0dc;
+    color: #4e9950;
 }
 
 .legend .item3 h3::before {
-    color: #ae65d5;
+    color: #aed577;
 }
 
 .legend li p {

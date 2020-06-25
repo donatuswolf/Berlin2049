@@ -4,9 +4,9 @@ window.onload = function () {
     var radiusMax = 20;
 
     var color = {
-        general: '#3a7bbf',
-        location: '#a3d869',
-        event: '#ae65d5'
+        now: '#186664',
+        tomorrow: '#4e9950',
+        someday: '#aed577'
     }
 
     //// day/night theme ////////
